@@ -3,7 +3,7 @@
       "model": "rest_api.echoreply",
       "pk": 1,
       "fields": {
-          "msg": "PONG_FROM_REST_API"
+          "msg": "PONG_FROM_REST_API_2"
       }
   }, {
       "model": "rest_api.echoreply",
