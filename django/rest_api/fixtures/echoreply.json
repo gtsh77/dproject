@@ -1,0 +1,15 @@
+[
+  {
+      "model": "rest_api.echoreply",
+      "pk": 1,
+      "fields": {
+          "msg": "PONG_FROM_REST_API"
+      }
+  }, {
+      "model": "rest_api.echoreply",
+      "pk": 2,
+      "fields": {
+          "msg": "SOME_OTHER_REPLY"
+      }
+  }
+]
