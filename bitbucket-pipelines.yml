@@ -22,5 +22,3 @@ pipelines:
           - docker login -u $DOCKER_HUB_USERNAME -p $DOCKER_HUB_PASSWORD
           # push the new Docker image to the Docker registry
           - docker push $IMAGE_NAME
-          
-          - docker-cloud service set --autoredeploy dproject-dee8b215
